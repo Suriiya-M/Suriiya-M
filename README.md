@@ -2,7 +2,7 @@
 
 🚀 Passionate software developer with a focus on building dynamic web applications. Proficient in Java, Python, PHP, MySQL, and front-end technologies like HTML, CSS, and JavaScript.
 
-🎓 Recent B.Sc. (Computer Science) graduate with hands-on experience in developing scalable web applications. Currently working on a web-based inventory management system using Spring Boot.
+🎓 Recent B.Sc. (Computer Science) graduate with hands-on experience in developing scalable web applications.
 
 💼 Eager to contribute to open-source projects and collaborate on innovative web development solutions.
 
