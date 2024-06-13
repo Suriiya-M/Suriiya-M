@@ -1,6 +1,6 @@
 👋 Hi, I'm Surya!
 
-🚀 Passionate software developer with a focus on building dynamic web applications. Proficient in Java, Python, PHP MySQL, and front-end technologies like HTML, CSS, and JavaScript.
+🚀 Passionate software developer with a focus on building dynamic web applications. Proficient in Java, Python, PHP, MySQL, and front-end technologies like HTML, CSS, and JavaScript.
 
 🎓 Recent B.Sc. (Computer Science) graduate with hands-on experience in developing scalable web applications. Currently working on a web-based inventory management system using Spring Boot.
 
